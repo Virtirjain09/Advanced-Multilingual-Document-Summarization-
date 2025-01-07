@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+pandas
+langdetect
+torch
+transformers
+deep_translator
+rouge_score
+plotly
+nltk
